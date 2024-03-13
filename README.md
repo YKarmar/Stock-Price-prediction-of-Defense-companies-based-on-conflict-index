@@ -23,3 +23,5 @@ First we need to go to https://acleddata.com/curated-data-files/ to download the
 
 
 If you want to look at ShayaunB_FinalProj_code.zip please unzip and then there will be all the csv and python code, to use the conflict index data set in the zip its compressed using RAR so please use winRAR or something like that to extract it. 
+
+If you want to use LSTM to predict stock data, you need to enter the FinalProj-Qiuyi Yang folder, download the RTX_new.csv file, ensure that the Pytorch environment is installed in the system, and then run the LSTM.py file to obtain prediction results. You can adjust the length of input data and parameters of the LSTM network to obtain different prediction results. Multiple adjustments of parameters may lead to more satisfactory results.
