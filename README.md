@@ -1,4 +1,5 @@
 # Stock-Price-prediction-of-Defense-companies-based-on-conflict-index
+The Topic that our team chose is “Stock Price prediction of Defense companies based on conflict index” using ACLED Conflict index. For example using this data set we can track Drone strikes happening in the middle east and if the amount of drone strikes increases we can see if it correlates to stock price. We could also track event types that usually lead to drone strike increase and predict stock price from that. 
 
 # Overview of the Repo
 There are two main folders of our repo. One of them is regarding the analysis on the middle east conflict dataset and the second one is regarding the analysis on the stock price on the defense companies.
