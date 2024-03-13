@@ -20,3 +20,6 @@ The dataset that we are using are from https://acleddata.com/curated-data-files/
 
 # How to run our code
 First we need to go to https://acleddata.com/curated-data-files/ to download the dataset from Middle East and also other csv file in our data folder. Then we can open our notebook file and run every cell in the code.
+
+
+If you want to look at ShayaunB_FinalProj_code.zip please unzip and then there will be all the csv and python code, to use the conflict index data set in the zip its compressed using RAR so please use winRAR or something like that to extract it. 
