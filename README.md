@@ -19,8 +19,7 @@ The dataset that we are using are from https://acleddata.com/curated-data-files/
 6. Finally we make our conclusion that the conflict indenese will have a positive relationship with the defense companies.
 
 # How to run our code
-First we need to go to https://acleddata.com/curated-data-files/ to download the dataset from Middle East and also other csv file in our data folder. Then we can open our notebook file and run every cell in the code.
-
+First we need to go to ShayaunB_MiddleE_andStockPrice.zip to download the dataset from Middle East then, to use the conflict index data set in the zip its compressed using RAR so please use winRAR or something like that to extract it and also put other csv file in our data folder into the same folder with the main notebook file. Then we can open our notebook file and run every cell in the code. 
 
 If you want to use ShayaunB_MiddleE_andStockPrice.zip please unzip and then there will be all the csv and python code, to use the conflict index data set in the zip its compressed using RAR so please use winRAR or something like that to extract it. Once You have the folder ready it is plug and play. Be sure to real docstrign for what each function produces as well as the code with only show one graph at a time and pause there so for the code to continue you must close that graph and it will autmotically move on. Conflict index event data set is large so it takes a few seconds for the code to generate the graph. 
 
